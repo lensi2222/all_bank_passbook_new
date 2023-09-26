@@ -1,0 +1,352 @@
+[
+  {
+    "bank_id": "1",
+    "bank_name": "State Bank of India (SBI)",
+    "net_banking": "https://retail.onlinesbi.sbi/retail/login.htm",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223866666",
+        "customer_care": "18004253800"
+      }
+    ],
+    "sms_banking": [
+      {
+        "sms_banking_id": "101",
+        "name1": "Registration to SMS Banking",
+        "text_sms": [
+          {
+            "text": "MBSRGE",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "102",
+        "name1": "Confirm registration",
+        "text_sms": [
+          {
+            "text": "SACCEPT<UserId><MPIN>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "103",
+        "name1": "Change MPIN",
+        "text_sms": [
+          {
+            "text": "Smpin<UserId><Old Mpin><New Mpin>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "104",
+        "name1": "Balance enquiry",
+        "text_sms": [
+          {
+            "text": "SBAL<UserId><Mpin>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "105",
+        "name1": "Mini Statement",
+        "text_sms": [
+          {
+            "text": "SMIN<UserId><Mpin>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "106",
+        "name1": "Mobile Recharge",
+        "text_sms": [
+          {
+            "text": "STOPUPSDTH<UserId><Mpin><Service provider name of the mobile no to be topped><Mob no><Amount>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "107",
+        "name1": "DTH recharge",
+        "text_sms": [
+          {
+            "text": "SDTH<UserId><Mpin><Service Provider><DTH serial number><amount>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank_id": "2",
+    "bank_name": "Allahabad Bank",
+    "net_banking": "https://www.allbankonline.in/jsp/startnew.jsp",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9224150150",
+        "mini_statement": "9224150150",
+        "customer_care": "18005722000"
+      }
+    ],
+    "sms_banking": [
+      {
+        "sms_banking_id": "108",
+        "name1": "Balance enquiry",
+        "text_sms": [
+          {
+            "text": "BALAVL<A/c no>",
+            "send_msg": "sms:09246211101"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "109",
+        "name1": "Last 5 transactions",
+        "text_sms": [
+          {
+            "text": "LATRAN<A/c no>",
+            "send_msg": "sms:09246211101"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "110",
+        "name1": "Account statement request",
+        "text_sms": [
+          {
+            "text": "STMACC<Start date><End date><A/c no>",
+            "send_msg": "sms:09246211101"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "111",
+        "name1": "Cheque book request",
+        "text_sms": [
+          {
+            "text": "CHQREQ<No.of Leaves><A/c no>",
+            "send_msg": "sms:09246211101"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "112",
+        "name1": "Stop payment of cheque",
+        "text_sms": [
+          {
+            "text": "STPPAY<Chq no><A/c no><PIN>",
+            "send_msg": "sms:09246211101"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "113",
+        "name1": "Issued cheque status enquiry",
+        "text_sms": [
+          {
+            "text": "CHQSTS<Chq no><A/c no>",
+            "send_msg": "sms:09246211101"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "114",
+        "name1": "Change SMS banking pin",
+        "text_sms": [
+          {
+            "text": "CHGPIN<New MPIN><Old MPIN>",
+            "send_msg": "sms:09246211101"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank_id": "3",
+    "bank_name": "Bank of Baroda (BOB)",
+    "net_banking": "https://feba.bobibanking.com/default.htm",
+    "bank_number_detail": [
+      {
+        "bank_balance": "8468001111",
+        "mini_statement": "8468001122",
+        "customer_care": "18001024455"
+      }
+    ],
+    "sms_banking": [
+      {
+        "sms_banking_id": "115",
+        "name1": "Balance enquiry",
+        "text_sms": [
+          {
+            "text": "BAL<space><last 4 digit of account number>",
+            "send_msg": "sms:5616150"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "116",
+        "name1": "Mini statement",
+        "text_sms": [
+          {
+            "text": "MINI<space><last 4 digit of account number>",
+            "send_msg": "sms:5616150"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "117",
+        "name1": "Cheque status",
+        "text_sms": [
+          {
+            "text": "CHEQ<space><last 4 digit of account number><space><chequeno.>",
+            "send_msg": "sms:5616150"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank_id": "4",
+    "bank_name": "Bank of India (BOI)",
+    "net_banking": "https://bankofindia.co.in/english/Int-Banking.aspx",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9015135135",
+        "mini_statement": "9810558585",
+        "customer_care": "1800220229"
+      }
+    ],
+    "sms_banking": [
+      {
+        "sms_banking_id": "118",
+        "name1": "Balance enquiry",
+        "text_sms": [
+          {
+            "text": "BAL<SMS Password>",
+            "send_msg": "sms:09810558585"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "119",
+        "name1": "Last 5 Transactions",
+        "text_sms": [
+          {
+            "text": "TRANS<SMS Password>",
+            "send_msg": "sms:09810558585"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "120",
+        "name1": "Cheque status",
+        "text_sms": [
+          {
+            "text": "CHQSTS<SMS Password><cheque No>",
+            "send_msg": "sms:09810558585"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "121",
+        "name1": "Change Mobile banking passbook(MPIN/SMS-Password)",
+        "text_sms": [
+          {
+            "text": "CHGPWD<Old Password><New Password>",
+            "send_msg": "sms:09810558585"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank_id": "5",
+    "bank_name": "Canara Bank",
+    "net_banking": "https://netbanking.canarabank.in/entry/ENULogin.jsp",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9015483483",
+        "mini_statement": "9015734734",
+        "customer_care": "18004250018"
+      }
+    ],
+    "sms_banking": [
+      {
+        "sms_banking_id": "121",
+        "name1": "Balance enquiry",
+        "text_sms": [
+          {
+            "text": "CANBAL <space>userid<space>MPIN",
+            "send_msg": "sms:5607060"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "102",
+        "name1": "Confirm registration",
+        "text_sms": [
+          {
+            "text": "SACCEPT<UserId><MPIN>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "103",
+        "name1": "Change MPIN",
+        "text_sms": [
+          {
+            "text": "Smpin<UserId><Old Mpin><New Mpin>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "104",
+        "name1": "Balance enquiry",
+        "text_sms": [
+          {
+            "text": "SBAL<UserId><Mpin>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "105",
+        "name1": "Mini Statement",
+        "text_sms": [
+          {
+            "text": "SMIN<UserId><Mpin>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "106",
+        "name1": "Mobile Recharge",
+        "text_sms": [
+          {
+            "text": "STOPUPSDTH<UserId><Mpin><Service provider name of the mobile no to be topped><Mob no><Amount>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      },
+      {
+        "sms_banking_id": "107",
+        "name1": "DTH recharge",
+        "text_sms": [
+          {
+            "text": "SDTH<UserId><Mpin><Service Provider><DTH serial number><amount>",
+            "send_msg": "sms:09223440000"
+          }
+        ]
+      }
+    ]
+  }
+]

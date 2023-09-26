@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754362157636",
+    "project_id": "lensi-s-projects",
+    "storage_bucket": "lensi-s-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754362157636:android:93b7376562506aa4f5ca11",
+        "android_client_info": {
+          "package_name": "com.all.bank.passbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754362157636-6ph3drv274ngqmtob2svadavd9tl76us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE6LVP65DGNZ2MZRP9BhllsEaWlVKPTgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754362157636-6ph3drv274ngqmtob2svadavd9tl76us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

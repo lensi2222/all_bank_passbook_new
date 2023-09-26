@@ -1,0 +1,462 @@
+[
+  {
+    "BankName": "SBI",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004253800",
+        "mini_statement": "09223866666",
+        "customer_care": "18004253800"
+      }
+    ]
+  },
+  {
+    "BankName": "BOB",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223011311",
+        "mini_statement": "8468001122",
+        "customer_care": "18001024455"
+      }
+    ]
+  },
+  {
+    "BankName": "IDBI",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18008431122",
+        "mini_statement": "18008431133",
+        "customer_care": "18002001947"
+      }
+    ]
+  },
+  {
+    "BankName": "CBI",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09222250000",
+        "mini_statement": "09555144441",
+        "customer_care": "18002001911"
+      }
+    ]
+  },
+  {
+    "BankName": "HDFC",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004254332",
+        "mini_statement": "18002703355",
+        "customer_care": "18002703333"
+      }
+    ]
+  },
+  {
+    "BankName": "Citi",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004252484",
+        "mini_statement": "09880752484",
+        "customer_care": "1800226747"
+      }
+    ]
+  },
+  {
+    "BankName": "Axis",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004195959",
+        "mini_statement": "18004196969",
+        "customer_care": "18002095577"
+      }
+    ]
+  },
+  {
+    "BankName": "Kotak",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002740110",
+        "mini_statement": "NO",
+        "customer_care": "18001026022"
+      }
+    ]
+  },
+  {
+    "BankName": "Panjab National",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18001802222",
+        "mini_statement": "NO",
+        "customer_care": "18001802222"
+      }
+    ]
+  },
+  {
+    "BankName": "ICICI",
+    "bank_number_detail": [
+      {
+        "bank_balance": "02230256767",
+        "mini_statement": "02230256868",
+        "customer_care": "18002003344"
+      }
+    ]
+  },
+  {
+    "BankName": "Canara",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09015483483",
+        "mini_statement": "09015734734",
+        "customer_care": "18004250018"
+      }
+    ]
+  },
+  {
+    "BankName": "BOI",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09015135135",
+        "mini_statement": "NO",
+        "customer_care": "18001024456"
+      }
+    ]
+  },
+  {
+    "BankName": "Corporation",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09268892688",
+        "mini_statement": "NO",
+        "customer_care": "18004253555"
+      }
+    ]
+  },
+  {
+    "BankName": "Union",
+    "bank_number_detail": [
+      {
+        "bank_balance": "1800222244",
+        "mini_statement": "NO",
+        "customer_care": "09223008586"
+      }
+    ]
+  },
+  {
+    "BankName": "UCO",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09278792787",
+        "mini_statement": "09213125125",
+        "customer_care": "18001030123"
+      }
+    ]
+  },
+  {
+    "BankName": "Vijaya",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004255885",
+        "mini_statement": "18001035535",
+        "customer_care": "18002665555"
+      }
+    ]
+  },
+  {
+    "BankName": "SIB",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223008488",
+        "mini_statement": "NO",
+        "customer_care": "18008431800"
+      }
+    ]
+  },
+  {
+    "BankName": "American Exp",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004191092",
+        "mini_statement": "NO",
+        "customer_care": "1800222639"
+      }
+    ]
+  },
+  {
+    "BankName": "HSBC",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09268892688",
+        "mini_statement": "NO",
+        "customer_care": "18004253555"
+      }
+    ]
+  },
+  {
+    "BankName": "Corporation",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002090100",
+        "mini_statement": "NO",
+        "customer_care": "18001034722"
+      }
+    ]
+  },
+  {
+    "BankName": "Federal",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004201199",
+        "mini_statement": "08431600600",
+        "customer_care": "8431900900"
+      }
+    ]
+  },
+  {
+    "BankName": "Indian Overseas",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004254445",
+        "mini_statement": "NO",
+        "customer_care": "04442220004"
+      }
+    ]
+  },
+  {
+    "BankName": "IDFC",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18008431155",
+        "mini_statement": "NO",
+        "customer_care": "18004194332"
+      }
+    ]
+  },
+  {
+    "BankName": "Dhanalaxmi",
+    "bank_number_detail": [
+      {
+        "bank_balance": "08067747700",
+        "mini_statement": "08067747711",
+        "customer_care": "18004251747"
+      }
+    ]
+  },
+  {
+    "BankName": "ABN",
+    "bank_number_detail": [
+      {
+        "bank_balance": "1800112224",
+        "mini_statement": "NO",
+        "customer_care": "0031102411720"
+      }
+    ]
+  },
+  {
+    "BankName": "Allahabad",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09224150150",
+        "mini_statement": "09224150150",
+        "customer_care": "1800220363"
+      }
+    ]
+  },
+  {
+    "BankName": "Andhra",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223011300",
+        "mini_statement": "NO",
+        "customer_care": "18004252905"
+      }
+    ]
+  },
+  {
+    "BankName": "ANZ",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002000269",
+        "mini_statement": "NO",
+        "customer_care": "0061396839999"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank od Maharashtra",
+    "bank_number_detail": [
+      {
+        "bank_balance": "1800222340",
+        "mini_statement": "NO",
+        "customer_care": "18002334526"
+      }
+    ]
+  },
+  {
+    "BankName": "Barclays",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002336565",
+        "mini_statement": "NO",
+        "customer_care": "00442476842100"
+      }
+    ]
+  },
+  {
+    "BankName": "Indian Exp",
+    "bank_number_detail": [
+      {
+        "bank_balance": "180042500000",
+        "mini_statement": "NO",
+        "customer_care": "09289592895"
+      }
+    ]
+  },
+  {
+    "BankName": "Bharatiya Mahila",
+    "bank_number_detail": [
+      {
+        "bank_balance": "0114742100",
+        "mini_statement": "NO",
+        "customer_care": "09212438888"
+      }
+    ]
+  },
+  {
+    "BankName": "Punjab & Sind",
+    "bank_number_detail": [
+      {
+        "bank_balance": "1800221908",
+        "mini_statement": "NO",
+        "customer_care": "1800221908"
+      }
+    ]
+  },
+  {
+    "BankName": "Bandhan",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002588181",
+        "mini_statement": "9223011000",
+        "customer_care": "1802588181"
+      }
+    ]
+  },
+  {
+    "BankName": "Saraswat",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9223040000",
+        "mini_statement": "09223501111",
+        "customer_care": "1800229999"
+      }
+    ]
+  },
+  {
+    "BankName": "CBOP",
+    "bank_number_detail": [
+      {
+        "bank_balance": "1800443555",
+        "mini_statement": "NO",
+        "customer_care": "18004253555"
+      }
+    ]
+  },
+  {
+    "BankName": "Standard Chartered",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18003451212",
+        "mini_statement": "NO",
+        "customer_care": "18003455000"
+      }
+    ]
+  },
+  {
+    "BankName": "SBBJ(Bikaner&jaipur)",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223866666",
+        "customer_care": "18003455000"
+      }
+    ]
+  },
+  {
+    "BankName": "Deutsche",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18001236601",
+        "mini_statement": "NO",
+        "customer_care": "18602666601"
+      }
+    ]
+  },
+  {
+    "BankName": "SBT(Travancore)",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223866666",
+        "customer_care": "18004255566"
+      }
+    ]
+  },
+  {
+    "BankName": "Syndicates",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09664552255",
+        "mini_statement": "NO",
+        "customer_care": "18004256655"
+      }
+    ]
+  },
+  {
+    "BankName": "UBI",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09015431345",
+        "mini_statement": "NO",
+        "customer_care": "18003450345"
+      }
+    ]
+  },
+  {
+    "BankName": "Karnataka",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004251445",
+        "mini_statement": "18004251446",
+        "customer_care": "18004251444"
+      }
+    ]
+  },
+  {
+    "BankName": "Citi Union",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9248177444",
+        "mini_statement": "9248177444",
+        "customer_care": "18004251444"
+      }
+    ]
+  },
+  {
+    "BankName": "Indusind",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002741000",
+        "mini_statement": "NO",
+        "customer_care": "18605005004"
+      }
+    ]
+  },
+  {
+    "BankName": "janata Sahakari",
+    "bank_number_detail": [
+      {
+        "bank_balance": "902900088",
+        "mini_statement": "09029000888",
+        "customer_care": "18002333258"
+      }
+    ]
+  }
+]

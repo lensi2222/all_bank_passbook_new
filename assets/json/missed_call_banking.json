@@ -1,0 +1,1871 @@
+[
+  {
+    "BankName": "Abhyudaya Co-op Bank",
+    "Bank_images": "assets/bank-images/b_abhyudaya.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004195511",
+        "mini_statement": "18003135235",
+        "customer_care": "1800223131"
+      }
+    ]
+  },
+  {
+    "BankName": "Abu Dhabi Commercial Bank",
+    "Bank_images": "assets/bank-images/b_abu_dhabi.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "600 50 2030"
+      }
+    ]
+  },
+  {
+    "BankName": "AkolaJanata Commercial Co-op Bank",
+    "Bank_images": "assets/bank-images/b_akolad.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "07242422708",
+        "mini_statement": "no",
+        "customer_care": "07242422708"
+      }
+    ]
+  },
+  {
+    "BankName": "Allahabad Bank",
+    "Bank_images": "assets/bank-images/allhabad_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09224150150",
+        "mini_statement": "09223150150",
+        "customer_care": "18005722000"
+      }
+    ]
+  },
+  {
+    "BankName": "Andhra Bank",
+    "Bank_images": "assets/bank-images/andhra_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223011300",
+        "mini_statement": "09223173924",
+        "customer_care": "18004251515"
+      }
+    ]
+  },
+  {
+    "BankName": "Andhra Pragathi Grameena Bank",
+    "Bank_images": "assets/bank-images/b_andhrap.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09266921358",
+        "mini_statement": "09266921358",
+        "customer_care": "18004252045"
+      }
+    ]
+  },
+  {
+    "BankName": "Apna Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_apnasah.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "*99*85#",
+        "mini_statement": "*99*85#",
+        "customer_care": "0224105261"
+      }
+    ]
+  },
+  {
+    "BankName": "Australia & new Zealand Banking Group Ltd",
+    "Bank_images": "assets/bank-images/anz_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "1800200269",
+        "mini_statement": "no",
+        "customer_care": "1800200269"
+      }
+    ]
+  },
+  {
+    "BankName": "Axis Bank",
+    "Bank_images": "assets/bank-images/axis_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004195959",
+        "mini_statement": "18004196969",
+        "customer_care": "18604195555"
+      }
+    ]
+  },
+  {
+    "BankName": "American Express",
+    "Bank_images": "assets/bank-images/american_express.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004193646",
+        "mini_statement": "no",
+        "customer_care": "18004193646"
+      }
+    ]
+  },
+  {
+    "BankName": "ABN Amro Bank",
+    "Bank_images": "assets/bank-images/b_abn_amro.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "1800112224",
+        "mini_statement": "no",
+        "customer_care": "1800112224"
+      }
+    ]
+  },
+  {
+    "BankName": "A.P.Mahesh Co-op Bank",
+    "Bank_images": "assets/bank-images/b_a_p_mahesh.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09248077450",
+        "mini_statement": "09248077450",
+        "customer_care": "04024615296"
+      }
+    ]
+  },
+  {
+    "BankName": "ADC Bank",
+    "Bank_images": "assets/bank-images/b_adc.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "092892244010",
+        "mini_statement": "09227444420",
+        "customer_care": "07927542608"
+      }
+    ]
+  },
+  {
+    "BankName": "Akhand Anand Co-op Bank",
+    "Bank_images": "assets/bank-images/b_akhand.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09243000111",
+        "mini_statement": "09243000111",
+        "customer_care": "02612532540"
+      }
+    ]
+  },
+  {
+    "BankName": "Bandhan Bank",
+    "Bank_images": "assets/bank-images/bandhan_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002588181",
+        "mini_statement": "09223008777",
+        "customer_care": "18002588181"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank International Indonesia",
+    "Bank_images": "assets/bank-images/b_bii.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "1500611"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank of America",
+    "Bank_images": "assets/bank-images/b_boa.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "392632",
+        "mini_statement": "no",
+        "customer_care": "00131527244022"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank of Bahrain & Kuwait",
+    "Bank_images": "assets/bank-images/b_bahrain.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "97317214444",
+        "mini_statement": "97317214444",
+        "customer_care": "02243349292"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank of Baroda",
+    "Bank_images": "assets/bank-images/bank_of_baroda.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "08468001111",
+        "mini_statement": "08468001122",
+        "customer_care": "18001024455"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank of Ceylon",
+    "Bank_images": "assets/bank-images/b_ceylon.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "0112204651",
+        "mini_statement": "0112204651",
+        "customer_care": "94112541932"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank of India",
+    "Bank_images": "assets/bank-images/bank_of_india.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09015135135",
+        "mini_statement": "0981055858",
+        "customer_care": "1800220229"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank of Maharashtra",
+    "Bank_images": "assets/bank-images/bank_of_maharashtra.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09222281818",
+        "mini_statement": "09223181818",
+        "customer_care": "18002334526"
+      }
+    ]
+  },
+  {
+    "BankName": "Bank of Tokyo-Mitsubishi Ufj Ltd",
+    "Bank_images": "assets/bank-images/b_tokyo.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "0081354327324"
+      }
+    ]
+  },
+  {
+    "BankName": "Barclays Bank",
+    "Bank_images": "assets/bank-images/b_barclays.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "02260007888",
+        "mini_statement": "no",
+        "customer_care": "02260007888"
+      }
+    ]
+  },
+  {
+    "BankName": "Bassein Catholic Co-op Bank",
+    "Bank_images": "assets/bank-images/b_bassein.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09222272407",
+        "mini_statement": "09222272407",
+        "customer_care": "18002336000"
+      }
+    ]
+  },
+  {
+    "BankName": "Bharatiya Mahila Bank",
+    "Bank_images": "assets/bank-images/bharatiya_mahila_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09212438888",
+        "mini_statement": "no",
+        "customer_care": "01147472100"
+      }
+    ]
+  },
+  {
+    "BankName": "BNP Paribas",
+    "Bank_images": "assets/bank-images/b_bnp.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "0033157082200"
+      }
+    ]
+  },
+  {
+    "BankName": "Calyon Bank",
+    "Bank_images": "assets/bank-images/b_calyon.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "67221010"
+      }
+    ]
+  },
+  {
+    "BankName": "Canara Bank",
+    "Bank_images": "assets/bank-images/canara_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09015483483",
+        "mini_statement": "09015734734",
+        "customer_care": "18004250018"
+      }
+    ]
+  },
+  {
+    "BankName": "Capital Small Finance Bank",
+    "Bank_images": "assets/bank-images/b_capital.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "180030100111",
+        "mini_statement": "180030100111",
+        "customer_care": "1815051111"
+      }
+    ]
+  },
+  {
+    "BankName": "Catholic Syrian Bank",
+    "Bank_images": "assets/bank-images/b_catholic.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "8828800900",
+        "mini_statement": "8828800900",
+        "customer_care": "18002669090"
+      }
+    ]
+  },
+  {
+    "BankName": "Central Bank of India",
+    "Bank_images": "assets/bank-images/central_bank_of_india.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09880752484",
+        "mini_statement": "no",
+        "customer_care": "186021202484"
+      }
+    ]
+  },
+  {
+    "BankName": "Citi Bank",
+    "Bank_images": "assets/bank-images/cirti_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "05962231947"
+      }
+    ]
+  },
+  {
+    "BankName": "Cosmos Bank",
+    "Bank_images": "assets/bank-images/b_cosmos.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09225677755",
+        "mini_statement": "09225677755",
+        "customer_care": "18002330234"
+      }
+    ]
+  },
+  {
+    "BankName": "Citizencredit Co-op Bank",
+    "Bank_images": "assets/bank-images/b_citizencredit.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "18001230209"
+      }
+    ]
+  },
+  {
+    "BankName": "City Union Bank",
+    "Bank_images": "assets/bank-images/b_cityuni.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09278177444",
+        "mini_statement": "09278177444",
+        "customer_care": "04471225000"
+      }
+    ]
+  },
+  {
+    "BankName": "Commonwealth Bank of Australia Bank",
+    "Bank_images": "assets/bank-images/b_commonwealth.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "05962231947"
+      }
+    ]
+  },
+  {
+    "BankName": "Corporation Bank",
+    "Bank_images": "assets/bank-images/corporation_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09268892688",
+        "mini_statement": "5667716",
+        "customer_care": "18004253555"
+      }
+    ]
+  },
+  {
+    "BankName": "Credit Suisse",
+    "Bank_images": "assets/bank-images/b_credit.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "05962231947"
+      }
+    ]
+  },
+  {
+    "BankName": "Cashnet Bank - Member Bank",
+    "Bank_images": "assets/bank-images/cashnet_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "1800225087",
+        "mini_statement": "no",
+        "customer_care": "1800225087"
+      }
+    ]
+  },
+  {
+    "BankName": "DBS Bank",
+    "Bank_images": "assets/bank-images/b_dbs.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002094555",
+        "mini_statement": "18002094555",
+        "customer_care": "18002094555"
+      }
+    ]
+  },
+  {
+    "BankName": "Dena Bank",
+    "Bank_images": "assets/bank-images/dena_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09289356677",
+        "mini_statement": "09289356677",
+        "customer_care": "18002336427"
+      }
+    ]
+  },
+  {
+    "BankName": "Deutsche Bank",
+    "Bank_images": "assets/bank-images/deutsche_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "561615",
+        "mini_statement": "561615",
+        "customer_care": "18001236601"
+      }
+    ]
+  },
+  {
+    "BankName": "Deutsche Securities India Pvt Ltd",
+    "Bank_images": "assets/bank-images/deutsche_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "561615",
+        "mini_statement": "561615",
+        "customer_care": "18001236601"
+      }
+    ]
+  },
+  {
+    "BankName": "Dhanlaxmi Bank",
+    "Bank_images": "assets/bank-images/dhanlaxmi_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "08067747700",
+        "mini_statement": "56161",
+        "customer_care": "18004251747"
+      }
+    ]
+  },
+  {
+    "BankName": "DCB Bank",
+    "Bank_images": "assets/bank-images/dcb_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "07506660011",
+        "mini_statement": "07506660022",
+        "customer_care": "18002095363"
+      }
+    ]
+  },
+  {
+    "BankName": "DICGC",
+    "Bank_images": "assets/bank-images/b_dicgs.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02223026400"
+      }
+    ]
+  },
+  {
+    "BankName": "Doha Bank",
+    "Bank_images": "assets/bank-images/b_doha.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "92610",
+        "mini_statement": "92610",
+        "customer_care": "02233771177"
+      }
+    ]
+  },
+  {
+    "BankName": "Dombivli Nagari Sahakari Bank LtdBank",
+    "Bank_images": "assets/bank-images/b_dombivli.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09225525002",
+        "mini_statement": "09225525002",
+        "customer_care": "18002331700"
+      }
+    ]
+  },
+  {
+    "BankName": "Exim Bank",
+    "Bank_images": "assets/bank-images/b_exim.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "27464",
+        "mini_statement": "27464",
+        "customer_care": "02222613873"
+      }
+    ]
+  },
+  {
+    "BankName": "Federal Bank",
+    "Bank_images": "assets/bank-images/federal_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "08431900900",
+        "mini_statement": "08431600600",
+        "customer_care": "18004251199"
+      }
+    ]
+  },
+  {
+    "BankName": "Firstand Bank Ltd",
+    "Bank_images": "assets/bank-images/b_firstrand.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02266258600"
+      }
+    ]
+  },
+  {
+    "BankName": "Gopinath patil parsik janata sahakari Bank",
+    "Bank_images": "assets/bank-images/b_gopinath.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09773466565",
+        "mini_statement": "09773466565",
+        "customer_care": "1800222511"
+      }
+    ]
+  },
+  {
+    "BankName": "HDFC Bank",
+    "Bank_images": "assets/bank-images/hdfc_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002703333",
+        "mini_statement": "18002703355",
+        "customer_care": "18004254332"
+      }
+    ]
+  },
+  {
+    "BankName": "HSBC Bank",
+    "Bank_images": "assets/bank-images/hsbc_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18001034722",
+        "mini_statement": "09611124722",
+        "customer_care": "18001034722"
+      }
+    ]
+  },
+  {
+    "BankName": "ICICI Bank",
+    "Bank_images": "assets/bank-images/icici_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09594612612",
+        "mini_statement": "09594612613",
+        "customer_care": "18001024242"
+      }
+    ]
+  },
+  {
+    "BankName": "IDBI Bank",
+    "Bank_images": "assets/bank-images/idbi_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18008431122",
+        "mini_statement": "18008431133",
+        "customer_care": "18002001947"
+      }
+    ]
+  },
+  {
+    "BankName": "IDFC Bank",
+    "Bank_images": "assets/bank-images/b_idfc.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002700720",
+        "mini_statement": "9289289960",
+        "customer_care": "18004194332"
+      }
+    ]
+  },
+  {
+    "BankName": "IDRBT",
+    "Bank_images": "assets/bank-images/b_idrbt.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "4023294000"
+      }
+    ]
+  },
+  {
+    "BankName": "Indian Bank",
+    "Bank_images": "assets/bank-images/indian_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09289592895",
+        "mini_statement": "09444394443",
+        "customer_care": "180042500000"
+      }
+    ]
+  },
+  {
+    "BankName": "Induslnd Bank",
+    "Bank_images": "assets/bank-images/indusind_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002741000",
+        "mini_statement": "09212299955",
+        "customer_care": "18605005004"
+      }
+    ]
+  },
+  {
+    "BankName": "Indian Overseas Bank",
+    "Bank_images": "assets/bank-images/indian_overseas_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "08424022122",
+        "mini_statement": "08424022122",
+        "customer_care": "18004254445"
+      }
+    ]
+  },
+  {
+    "BankName": "ING Vysya Bank",
+    "Bank_images": "assets/bank-images/ing_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "05962231947"
+      }
+    ]
+  },
+  {
+    "BankName": "Jalgaon Janata Sahkari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_jalgaon.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09266292666",
+        "mini_statement": "5607099",
+        "customer_care": "18602662666"
+      }
+    ]
+  },
+  {
+    "BankName": "Janakalyan Sahkari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_janakalyan.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "092231789000",
+        "mini_statement": "092231789000",
+        "customer_care": "1800225381"
+      }
+    ]
+  },
+  {
+    "BankName": "Janaseva Sahakari Bank Ltd(Borivli)",
+    "Bank_images": "assets/bank-images/b_janasevabori.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "28338001"
+      }
+    ]
+  },
+  {
+    "BankName": "Janaseva Sahakari Bank Ltd(Pune)",
+    "Bank_images": "assets/bank-images/b_janasevapune.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "7208053730",
+        "mini_statement": "no",
+        "customer_care": "02026704300"
+      }
+    ]
+  },
+  {
+    "BankName": "Janata Sahakari Bank Ltd(pune)",
+    "Bank_images": "assets/bank-images/b_janata.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "7208053730",
+        "mini_statement": "no",
+        "customer_care": "02026704300"
+      }
+    ]
+  },
+  {
+    "BankName": "Kallappanna Awade ich Janata SAH Bank",
+    "Bank_images": "assets/bank-images/b_kallappanna.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09225650117",
+        "mini_statement": "09225650117",
+        "customer_care": "18002336800"
+      }
+    ]
+  },
+  {
+    "BankName": "Kapol Co-op Bank",
+    "Bank_images": "assets/bank-images/b_kapol.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02612336443"
+      }
+    ]
+  },
+  {
+    "BankName": "Karnataka Bank Ltd",
+    "Bank_images": "assets/bank-images/karnataka_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004251445",
+        "mini_statement": "18004251446",
+        "customer_care": "18004251444"
+      }
+    ]
+  },
+  {
+    "BankName": "Karnataka Vikas Grameena Bank",
+    "Bank_images": "assets/bank-images/b_karnatakavikas.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004251666",
+        "mini_statement": "18004251445",
+        "customer_care": "08362448061"
+      }
+    ]
+  },
+  {
+    "BankName": "Karur Vysya Bank",
+    "Bank_images": "assets/bank-images/karur_vysya_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09266292666",
+        "mini_statement": "09266292665",
+        "customer_care": "18602001916"
+      }
+    ]
+  },
+  {
+    "BankName": "Kerala Gramin Bank.txt",
+    "Bank_images": "assets/bank-images/b_kerala.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "05962231947"
+      }
+    ]
+  },
+  {
+    "BankName": "Kotak Mahindra Bank.txt",
+    "Bank_images": "assets/bank-images/kotak_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18002740110",
+        "mini_statement": "09971056767",
+        "customer_care": "18602662666"
+      }
+    ]
+  },
+  {
+    "BankName": "Lakshmi Vilas ",
+    "Bank_images": "assets/bank-images/lakshmi_vilas_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "8882441155",
+        "mini_statement": "9282441155",
+        "customer_care": "18004252233"
+      }
+    ]
+  },
+  {
+    "BankName": "Mahanagar Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_mahanagar.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "05962231947"
+      }
+    ]
+  },
+  {
+    "BankName": "Maharasta State Co-op Bank",
+    "Bank_images": "assets/bank-images/b_maharashtra.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02222876015"
+      }
+    ]
+  },
+  {
+    "BankName": "Mashreq Bank",
+    "Bank_images": "assets/bank-images/b_mashreq.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "00971444244444"
+      }
+    ]
+  },
+  {
+    "BankName": "Nagar Urban Co-op Bank",
+    "Bank_images": "assets/bank-images/b_nagar.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "05962231947"
+      }
+    ]
+  },
+  {
+    "BankName": "Nation Austalia Bank",
+    "Bank_images": "assets/bank-images/b_nationalaus.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "0061386419083"
+      }
+    ]
+  },
+  {
+    "BankName": "National Bank Of Abu Dhabi",
+    "Bank_images": "assets/bank-images/b_nationalabu.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "37126111111"
+      }
+    ]
+  },
+  {
+    "BankName": "New India Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_new_india.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09870977191",
+        "mini_statement": "09870977191",
+        "customer_care": "02233586658"
+      }
+    ]
+  },
+  {
+    "BankName": "NKGSB Co-op Bank",
+    "Bank_images": "assets/bank-images/b_nkgsb.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "5667789",
+        "mini_statement": "5667789",
+        "customer_care": "02228602000"
+      }
+    ]
+  },
+  {
+    "BankName": "North Malabar Co-op Bank",
+    "Bank_images": "assets/bank-images/b_nmalabar.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "04832733509"
+      }
+    ]
+  },
+  {
+    "BankName": "Oriental Bank Of Commerece",
+    "Bank_images": "assets/bank-images/oriental_bank_of_commerce.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "08067205757",
+        "mini_statement": "08067205767",
+        "customer_care": "18001801235"
+      }
+    ]
+  },
+  {
+    "BankName": "Pragathi Krishna Gramin Bank",
+    "Bank_images": "assets/bank-images/b_pragathi.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "92610",
+        "mini_statement": "92610",
+        "customer_care": "02233771177"
+      }
+    ]
+  },
+  {
+    "BankName": "Prime Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_prime.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "02612804777",
+        "mini_statement": "02612804777",
+        "customer_care": "02612804777"
+      }
+    ]
+  },
+  {
+    "BankName": "Punjab&Maharastra Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_punmaha.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9289220675",
+        "mini_statement": "09773251313",
+        "customer_care": "1800223993"
+      }
+    ]
+  },
+  {
+    "BankName": "Punjab National Bank",
+    "Bank_images": "assets/bank-images/punjab_national_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18001802223",
+        "mini_statement": "5607040",
+        "customer_care": "18001802222"
+      }
+    ]
+  },
+  {
+    "BankName": "Rabobank International",
+    "Bank_images": "assets/bank-images/b_rabobank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02224817700"
+      }
+    ]
+  },
+  {
+    "BankName": "Rajgurunagar Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_rajgurunagar.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02135222085"
+      }
+    ]
+  },
+  {
+    "BankName": "Rajkot Nagarik Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_rajkot.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "9428294282"
+      }
+    ]
+  },
+  {
+    "BankName": "Reserve Bank of Indian",
+    "Bank_images": "assets/bank-images/b_rbi.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "1123711333"
+      }
+    ]
+  },
+  {
+    "BankName": "Royal Bank of Scotland",
+    "Bank_images": "assets/bank-images/rbs.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09227148472",
+        "mini_statement": "no",
+        "customer_care": "1800112224"
+      }
+    ]
+  },
+  {
+    "BankName": "RBL Bank",
+    "Bank_images": "assets/bank-images/rbl_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18004190610",
+        "mini_statement": "09223366333",
+        "customer_care": "18001238040"
+      }
+    ]
+  },
+  {
+    "BankName": "Saraswat Co-op Bank",
+    "Bank_images": "assets/bank-images/b_saraswat.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223040000",
+        "mini_statement": "09223501111",
+        "customer_care": "1800229999"
+      }
+    ]
+  },
+  {
+    "BankName": "Sangli Urban Co-op Bank",
+    "Bank_images": "assets/bank-images/b_sangli.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09403782800",
+        "mini_statement": "09403782800",
+        "customer_care": "02332376236"
+      }
+    ]
+  },
+  {
+    "BankName": "Sardar Bhiladwala Pardi Peoples Co-op Bank",
+    "Bank_images": "assets/bank-images/b_sardar.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09274092740",
+        "mini_statement": "09274092740",
+        "customer_care": "02602373528"
+      }
+    ]
+  },
+  {
+    "BankName": "Sarva Haryana Gramin Bank",
+    "Bank_images": "assets/bank-images/b_sarva.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18001807777",
+        "mini_statement": "18001807777",
+        "customer_care": "01262243111"
+      }
+    ]
+  },
+  {
+    "BankName": "Samarth Sahakri Bank Ltd",
+    "Bank_images": "assets/bank-images/b_samarth.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02172744210"
+      }
+    ]
+  },
+  {
+    "BankName": "Shikshak Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_shikshak.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "07122774866"
+      }
+    ]
+  },
+  {
+    "BankName": "Shinhan Bank ",
+    "Bank_images": "assets/bank-images/b_shinhan.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "19001577"
+      }
+    ]
+  },
+  {
+    "BankName": "Scotiabank",
+    "Bank_images": "assets/bank-images/b_scotia.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "18004726842"
+      }
+    ]
+  },
+  {
+    "BankName": "Shivalik Mercantile Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_shivalik.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "919211401010",
+        "mini_statement": "919211401010",
+        "customer_care": "07282232425"
+      }
+    ]
+  },
+  {
+    "BankName": "Shri Chhatrapati Rajashri Shahu Urban Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_shrichatra.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02442229772"
+      }
+    ]
+  },
+  {
+    "BankName": "Societe Generale",
+    "Bank_images": "assets/bank-images/b_societe.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "08067316000"
+      }
+    ]
+  },
+  {
+    "BankName": "Solarpur Janata Sahkari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_solapur.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "no",
+        "mini_statement": "no",
+        "customer_care": "02172741100"
+      }
+    ]
+  },
+  {
+    "BankName": "South Indian Bank",
+    "Bank_images": "assets/bank-images/south_indian_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223008488",
+        "mini_statement": "09840777222",
+        "customer_care": "18008431800"
+      }
+    ]
+  },
+  {
+    "BankName": "Standard Chartered Bank",
+    "Bank_images": "assets/bank-images/b_standard.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09987123123",
+        "mini_statement": "09987123123",
+        "customer_care": "66012424"
+      }
+    ]
+  },
+  {
+    "BankName": "State Bank of Bikaner& jaipur Bank",
+    "Bank_images": "assets/bank-images/state_bank_of_bikaner_and_jaipur.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223766666",
+        "customer_care": "18001806005"
+      }
+    ]
+  },
+  {
+    "BankName": "State Bank of Hyderabad",
+    "Bank_images": "assets/bank-images/state_bank_of_hydrabad.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223866666",
+        "customer_care": "18004251825"
+      }
+    ]
+  },
+  {
+    "BankName": "State Bank of India",
+    "Bank_images": "assets/bank-images/state_bank_of_india.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223866666",
+        "customer_care": "18004253800"
+      }
+    ]
+  },
+  {
+    "BankName": "SBM Bank (Mauritius)",
+    "Bank_images": "assets/bank-images/b_sbm.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "12345678 to 87278727",
+        "mini_statement": "12345678 to 87278727",
+        "customer_care": "18001033817"
+      }
+    ]
+  },
+  {
+    "BankName": "State Bank of Mysore",
+    "Bank_images": "assets/bank-images/state_bank_of_mysore.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223866666",
+        "customer_care": "18004252244"
+      }
+    ]
+  },
+  {
+    "BankName": "State Bank of Patiala",
+    "Bank_images": "assets/bank-images/state_bank_of_patiala.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223866666",
+        "customer_care": "18001802010"
+      }
+    ]
+  },
+  {
+    "BankName": "State Bank of Travancore",
+    "Bank_images": "assets/bank-images/state_bank_of_travancore.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223866666",
+        "customer_care": "18004255566"
+      }
+    ]
+  },
+  {
+    "BankName": "Sumitomo Mitsui Banking Corporation",
+    "Bank_images": "assets/bank-images/b_sumitomo.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "1147689111"
+      }
+    ]
+  },
+  {
+    "BankName": "Surat National Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_suratnat.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02616713015"
+      }
+    ]
+  },
+  {
+    "BankName": "Syndicate Bank",
+    "Bank_images": "assets/bank-images/syndicate_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09664552255",
+        "mini_statement": "09210332255",
+        "customer_care": "08026639966"
+      }
+    ]
+  },
+  {
+    "BankName": "Tamilnand Mercantile bank Ltd",
+    "Bank_images": "assets/bank-images/tamilnad_mercantile_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09211937373",
+        "mini_statement": "09211947474",
+        "customer_care": "18004250426"
+      }
+    ]
+  },
+  {
+    "BankName": "The Ahemedabad Mercantile Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_ahmedabad.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "08030636264",
+        "mini_statement": "08030647070",
+        "customer_care": "07926426582"
+      }
+    ]
+  },
+  {
+    "BankName": "The Andhra Pradesh State Co-op BAnk Ltd",
+    "Bank_images": "assets/bank-images/b_the_andhra.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "08662579523"
+      }
+    ]
+  },
+  {
+    "BankName": "The Bharat Co-op Bank (Mumbai) Ltd",
+    "Bank_images": "assets/bank-images/b_the_bharat.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02261890111"
+      }
+    ]
+  },
+  {
+    "BankName": "The Delhi State Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_delhi.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "01123272447"
+      }
+    ]
+  },
+  {
+    "BankName": "The Gadchiroli District Central C0-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_gadchiroli.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "928920111",
+        "mini_statement": "NO",
+        "customer_care": "07131233106"
+      }
+    ]
+  },
+  {
+    "BankName": "The Greater Bombay Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_greater.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9223179977",
+        "mini_statement": "9223179977",
+        "customer_care": "0061249219111"
+      }
+    ]
+  },
+  {
+    "BankName": "The Gujrat State Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_gujarat.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223285005",
+        "mini_statement": "09223285005",
+        "customer_care": "0792745900"
+      }
+    ]
+  },
+  {
+    "BankName": "The Hasti Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_hasti.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02566244106"
+      }
+    ]
+  },
+  {
+    "BankName": "The Jalgaon Peoples Co-op Bank ",
+    "Bank_images": "assets/bank-images/b_the_jalgaon.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9405057991",
+        "mini_statement": "9405057991",
+        "customer_care": "02402380144"
+      }
+    ]
+  },
+  {
+    "BankName": "The Jammu&Kashmir Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_jammu.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "18001800234"
+      }
+    ]
+  },
+  {
+    "BankName": "The Kalupur Commercial Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_kalupur.pngg",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09712906224",
+        "mini_statement": "09712906225",
+        "customer_care": "07927582020"
+      }
+    ]
+  },
+  {
+    "BankName": "The Kalyan janata Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_kalyan.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "02261816081",
+        "mini_statement": "NO",
+        "customer_care": "02512201952"
+      }
+    ]
+  },
+  {
+    "BankName": "The Kangra Central CO-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_kangracen.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "189224969"
+      }
+    ]
+  },
+  {
+    "BankName": "The Kangra Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_kangra.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "1892224969"
+      }
+    ]
+  },
+  {
+    "BankName": "The Karad Urben Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_karad.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "2164226017"
+      }
+    ]
+  },
+  {
+    "BankName": "The Karanataka State Co-op Apex Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_karanataka.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223766666",
+        "customer_care": "18004253800"
+      }
+    ]
+  },
+  {
+    "BankName": "The Kurmanchal nagar Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_kurmanchal.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "05942236574"
+      }
+    ]
+  },
+  {
+    "BankName": "The Mehsana Urban Co-op bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_mehsana.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09266692668",
+        "mini_statement": "NO",
+        "customer_care": "02762257233"
+      }
+    ]
+  },
+  {
+    "BankName": "The Mumbai District Central Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_mumbai.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9222000404",
+        "mini_statement": "922000404",
+        "customer_care": "02222617154"
+      }
+    ]
+  },
+  {
+    "BankName": "The Muicipal Co-op Bank Ltd Mumbai ",
+    "Bank_images": "assets/bank-images/b_the_municipal.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223766666",
+        "mini_statement": "09223766666",
+        "customer_care": "18004253800"
+      }
+    ]
+  },
+  {
+    "BankName": "The Nainital Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_nainital.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09289592895",
+        "mini_statement": "8466997755",
+        "customer_care": "05942239280"
+      }
+    ]
+  },
+  {
+    "BankName": "The Nasik Merchants Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_nasik.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "253208200"
+      }
+    ]
+  },
+  {
+    "BankName": "The Pandharpur Urban Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_pandharpur.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "18002330011"
+      }
+    ]
+  },
+  {
+    "BankName": "The Rajasthan State Co-op BAnk Ltd",
+    "Bank_images": "assets/bank-images/b_the_rajasthan.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "01415119888"
+      }
+    ]
+  },
+  {
+    "BankName": "The Sahebrao Deshmukh Co-op BAnk Ltd(svb)",
+    "Bank_images": "assets/bank-images/b_the_sahebrao.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02228520369"
+      }
+    ]
+  },
+  {
+    "BankName": "The Seva Vikas Co-op BAnk Ltd",
+    "Bank_images": "assets/bank-images/b_the_seva.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02027414179"
+      }
+    ]
+  },
+  {
+    "BankName": "The Sahemrao Vithal Co-op BAnk Ltd",
+    "Bank_images": "assets/bank-images/b_the_shamrao.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09820620454",
+        "mini_statement": "09820620454",
+        "customer_care": "18003132120"
+      }
+    ]
+  },
+  {
+    "BankName": "The Surat Distric Co-op BAnk Ltd",
+    "Bank_images": "assets/bank-images/b_the_suratdis.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02612466001"
+      }
+    ]
+  },
+  {
+    "BankName": "The Surat Peoples Co-op BAnk Ltd",
+    "Bank_images": "assets/bank-images/b_the_suratpeop.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02612464621"
+      }
+    ]
+  },
+  {
+    "BankName": "The Sutex Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_sutex.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02228520369"
+      }
+    ]
+  },
+  {
+    "BankName": "The Tamilandu State Apex Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_tamilnadu.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9244092440",
+        "mini_statement": "9244092440",
+        "customer_care": "4425302354"
+      }
+    ]
+  },
+  {
+    "BankName": "The Thane Bharat Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_thanebhar.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "0922317001",
+        "mini_statement": "0922317001",
+        "customer_care": "02225333604"
+      }
+    ]
+  },
+  {
+    "BankName": "The Thane District Central Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_thanedis.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "1800229229"
+      }
+    ]
+  },
+  {
+    "BankName": "The Varachha Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/vracha_cooperative_bank_limited.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "02614008080",
+        "mini_statement": "NO",
+        "customer_care": "02614008000"
+      }
+    ]
+  },
+  {
+    "BankName": "The Vishweshwar Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_vishweshwar.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02024262745"
+      }
+    ]
+  },
+  {
+    "BankName": "The West Bengal State Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_west.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "6290829907"
+      }
+    ]
+  },
+  {
+    "BankName": "The Zoroastrian Co-op Bank Ltd",
+    "Bank_images": "assets/bank-images/b_the_zoroastrian.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "02261727608"
+      }
+    ]
+  },
+  {
+    "BankName": "TJSB Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_tjsb.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09212005550",
+        "mini_statement": "9870888210",
+        "customer_care": "1800223466"
+      }
+    ]
+  },
+  {
+    "BankName": "Tumkur Grain Merchants Co-op Bank ",
+    "Bank_images": "assets/bank-images/b_tumkur.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "08164021102"
+      }
+    ]
+  },
+  {
+    "BankName": "UBS AG",
+    "Bank_images": "assets/bank-images/b_ubs.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "8003549103"
+      }
+    ]
+  },
+  {
+    "BankName": "UCO Bank",
+    "Bank_images": "assets/bank-images/uco_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09278792787",
+        "mini_statement": "09213125125",
+        "customer_care": "18001030123"
+      }
+    ]
+  },
+  {
+    "BankName": "Union Bank Of India",
+    "Bank_images": "assets/bank-images/union_bank_of_india.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223008586",
+        "mini_statement": "09223008486",
+        "customer_care": "18002082244"
+      }
+    ]
+  },
+  {
+    "BankName": "United Bank of India",
+    "Bank_images": "assets/bank-images/united_bank_of_india.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18001802223",
+        "mini_statement": "09223173933",
+        "customer_care": "18003450345"
+      }
+    ]
+  },{
+  "BankName": "United Overseas Bank",
+  "Bank_images": "assets/bank-images/b_unitedover.png",
+  "bank_number_detail": [
+    {
+      "bank_balance": "NO",
+      "mini_statement": "NO",
+      "customer_care": "02242472828"
+    }
+  ]
+},
+  {
+    "BankName": "Vasai Vikas Sahakari Bank Ltd",
+    "Bank_images": "assets/bank-images/b_vasai.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "9223172359",
+        "mini_statement": "9223172359",
+        "customer_care": "7447407605"
+      }
+    ]
+  },
+  {
+    "BankName": "Vijaya Bank",
+    "Bank_images": "assets/bank-images/vijaya_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "18001035525",
+        "mini_statement": "18001035525",
+        "customer_care": "18004255885"
+      }
+    ]
+  },
+  {
+    "BankName": "Westpac Banking Corporation",
+    "Bank_images": "assets/bank-images/b_westpac.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "18002679378"
+      }
+    ]
+  },
+  {
+    "BankName": "Yes Bank ",
+    "Bank_images": "assets/bank-images/yes_bank.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "09223920000",
+        "mini_statement": "09223921111",
+        "customer_care": "18002000"
+      }
+    ]
+  },
+  {
+    "BankName": "Zila Sarkari Bank Ltd Ghaziabad",
+    "Bank_images": "assets/bank-images/b_zila.png",
+    "bank_number_detail": [
+      {
+        "bank_balance": "NO",
+        "mini_statement": "NO",
+        "customer_care": "01202824884"
+      }
+    ]
+  }
+]
